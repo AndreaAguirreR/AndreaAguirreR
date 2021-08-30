@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreaAguirreR
 - 👀 I’m  a IT recruiter
 - 🌱 I’m currently recruiting different developer profiles for a fintech 
-- 💞️ I’m looking developers interested in joinin a global and IT focused organization 
+- 💞️ I’m looking developers interested in joinin 100% mexican fintech focused on TI roles
 - 📫 You can find me at : andrea.aguirre@bankaya.com.mx or my mobile 5527033713
 
 <!---
